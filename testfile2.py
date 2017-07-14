@@ -9,6 +9,8 @@ from brian import *
 # Neuron model parameters
 defaultclock.t = 0*second
 
+print "change 1 with rob"
+
 Vr = -70 * mV
 Vt = -55 * mV
 taum = 20 * ms
